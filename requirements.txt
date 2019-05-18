@@ -1,0 +1,7 @@
+Tensorflow>=1.12.0
+Cython
+pillow
+lxml
+jupyter
+matplotlib
+contextlib2
