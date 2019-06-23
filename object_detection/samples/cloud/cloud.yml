@@ -2,7 +2,3 @@ trainingInput:
   runtimeVersion: "1.13"
   scaleTier: CUSTOM
   masterType: standard_p100
-  workerCount: 5
-  workerType: standard_p100
-  parameterServerCount: 3
-  parameterServerType: standard_p100
